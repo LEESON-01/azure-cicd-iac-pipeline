@@ -1,4 +1,4 @@
-# Azure DevOps CI/CD Pipeline with IaC Validation
+# Enterprise-style CI/CD pipeline using GitHub Actions and Azure with Infrastructure as Code validation, environment approvals, and secure deployment practices.
 
 ## Project Overview
 This project demonstrates a complete CI/CD pipeline using GitHub Actions and Microsoft Azure.
